@@ -33,7 +33,7 @@
 #define PROTOCOL_VERSION "1.0"
 
 #if MB(ULTIMAKER)|| MB(ULTIMAKER_OLD)|| MB(ULTIMAIN_2)
-  #define MACHINE_NAME "Ultimaker"
+  #define MACHINE_NAME "PI3 Pro B "
   #define FIRMWARE_URL "https://github.com/Ultimaker/Marlin"
 #elif MB(RUMBA)
   #define MACHINE_NAME "Rumba"
