@@ -31,5 +31,5 @@
 #if ENABLED(BLTOUCH)
   #define SERVO0_PIN  11
 #else
-  #define SERVO0_PIN  32
+  #define SERVO0_PIN  11
 #endif
